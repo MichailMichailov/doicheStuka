@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/doicheStuka/static/css/main.3e64ca15.css",
-    "main.js": "/doicheStuka/static/js/main.7b5f48b8.js",
+    "main.css": "/doicheStuka/static/css/main.cdcc2105.css",
+    "main.js": "/doicheStuka/static/js/main.a4020de2.js",
     "static/media/FuturaBookC-Italic.ttf": "/doicheStuka/static/media/FuturaBookC-Italic.b4380750ffd157616b50.ttf",
     "static/media/Uhlig-Logo-Rechteck1.png": "/doicheStuka/static/media/Uhlig-Logo-Rechteck1.364da61fb525d102b7c6.png",
     "static/media/trsh.png": "/doicheStuka/static/media/trsh.ea5c2f03783ec889d860.png",
     "index.html": "/doicheStuka/index.html",
-    "main.3e64ca15.css.map": "/doicheStuka/static/css/main.3e64ca15.css.map",
-    "main.7b5f48b8.js.map": "/doicheStuka/static/js/main.7b5f48b8.js.map"
+    "main.cdcc2105.css.map": "/doicheStuka/static/css/main.cdcc2105.css.map",
+    "main.a4020de2.js.map": "/doicheStuka/static/js/main.a4020de2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e64ca15.css",
-    "static/js/main.7b5f48b8.js"
+    "static/css/main.cdcc2105.css",
+    "static/js/main.a4020de2.js"
   ]
 }
